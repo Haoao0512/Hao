@@ -1,3 +1,5 @@
 ## Hao
 
-# Hello There 👋
+# - Hello There 👋
+
+  I'm Ronald Acebedo from Leyte
